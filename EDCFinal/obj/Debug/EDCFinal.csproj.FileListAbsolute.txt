@@ -1,0 +1,164 @@
+c:\users\nuno\documents\visual studio 2015\Projects\EDCFinal\bin\ApplicationInsights.config
+c:\users\nuno\documents\visual studio 2015\Projects\EDCFinal\bin\roslyn\csc.exe
+c:\users\nuno\documents\visual studio 2015\Projects\EDCFinal\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\nuno\documents\visual studio 2015\Projects\EDCFinal\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\nuno\documents\visual studio 2015\Projects\EDCFinal\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\nuno\documents\visual studio 2015\Projects\EDCFinal\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\nuno\documents\visual studio 2015\Projects\EDCFinal\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\nuno\documents\visual studio 2015\Projects\EDCFinal\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\nuno\documents\visual studio 2015\Projects\EDCFinal\bin\roslyn\System.Collections.Immutable.dll
+c:\users\nuno\documents\visual studio 2015\Projects\EDCFinal\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\nuno\documents\visual studio 2015\Projects\EDCFinal\bin\roslyn\vbc.exe
+c:\users\nuno\documents\visual studio 2015\Projects\EDCFinal\bin\roslyn\VBCSCompiler.exe
+c:\users\nuno\documents\visual studio 2015\Projects\EDCFinal\bin\roslyn\VBCSCompiler.exe.config
+c:\users\nuno\documents\visual studio 2015\Projects\EDCFinal\bin\EDCFinal.dll.config
+c:\users\nuno\documents\visual studio 2015\Projects\EDCFinal\bin\EDCFinal.dll
+c:\users\nuno\documents\visual studio 2015\Projects\EDCFinal\bin\EDCFinal.pdb
+c:\users\nuno\documents\visual studio 2015\Projects\EDCFinal\bin\Antlr3.Runtime.dll
+c:\users\nuno\documents\visual studio 2015\Projects\EDCFinal\bin\AspNet.ScriptManager.bootstrap.dll
+c:\users\nuno\documents\visual studio 2015\Projects\EDCFinal\bin\AspNet.ScriptManager.jQuery.dll
+c:\users\nuno\documents\visual studio 2015\Projects\EDCFinal\bin\EntityFramework.dll
+c:\users\nuno\documents\visual studio 2015\Projects\EDCFinal\bin\EntityFramework.SqlServer.dll
+c:\users\nuno\documents\visual studio 2015\Projects\EDCFinal\bin\Microsoft.AI.Agent.Intercept.dll
+c:\users\nuno\documents\visual studio 2015\Projects\EDCFinal\bin\Microsoft.AI.DependencyCollector.dll
+c:\users\nuno\documents\visual studio 2015\Projects\EDCFinal\bin\Microsoft.AI.PerfCounterCollector.dll
+c:\users\nuno\documents\visual studio 2015\Projects\EDCFinal\bin\Microsoft.AI.ServerTelemetryChannel.dll
+c:\users\nuno\documents\visual studio 2015\Projects\EDCFinal\bin\Microsoft.AI.Web.dll
+c:\users\nuno\documents\visual studio 2015\Projects\EDCFinal\bin\Microsoft.AI.WindowsServer.dll
+c:\users\nuno\documents\visual studio 2015\Projects\EDCFinal\bin\Microsoft.ApplicationInsights.dll
+c:\users\nuno\documents\visual studio 2015\Projects\EDCFinal\bin\Microsoft.AspNet.FriendlyUrls.dll
+c:\users\nuno\documents\visual studio 2015\Projects\EDCFinal\bin\Microsoft.AspNet.Identity.Core.dll
+c:\users\nuno\documents\visual studio 2015\Projects\EDCFinal\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+c:\users\nuno\documents\visual studio 2015\Projects\EDCFinal\bin\Microsoft.AspNet.Identity.Owin.dll
+c:\users\nuno\documents\visual studio 2015\Projects\EDCFinal\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+c:\users\nuno\documents\visual studio 2015\Projects\EDCFinal\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\nuno\documents\visual studio 2015\Projects\EDCFinal\bin\Microsoft.Owin.dll
+c:\users\nuno\documents\visual studio 2015\Projects\EDCFinal\bin\Microsoft.Owin.Host.SystemWeb.dll
+c:\users\nuno\documents\visual studio 2015\Projects\EDCFinal\bin\Microsoft.Owin.Security.Cookies.dll
+c:\users\nuno\documents\visual studio 2015\Projects\EDCFinal\bin\Microsoft.Owin.Security.dll
+c:\users\nuno\documents\visual studio 2015\Projects\EDCFinal\bin\Microsoft.Owin.Security.Facebook.dll
+c:\users\nuno\documents\visual studio 2015\Projects\EDCFinal\bin\Microsoft.Owin.Security.Google.dll
+c:\users\nuno\documents\visual studio 2015\Projects\EDCFinal\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+c:\users\nuno\documents\visual studio 2015\Projects\EDCFinal\bin\Microsoft.Owin.Security.OAuth.dll
+c:\users\nuno\documents\visual studio 2015\Projects\EDCFinal\bin\Microsoft.Owin.Security.Twitter.dll
+c:\users\nuno\documents\visual studio 2015\Projects\EDCFinal\bin\Microsoft.ScriptManager.MSAjax.dll
+c:\users\nuno\documents\visual studio 2015\Projects\EDCFinal\bin\Microsoft.ScriptManager.WebForms.dll
+c:\users\nuno\documents\visual studio 2015\Projects\EDCFinal\bin\Microsoft.Web.Infrastructure.dll
+c:\users\nuno\documents\visual studio 2015\Projects\EDCFinal\bin\Newtonsoft.Json.dll
+c:\users\nuno\documents\visual studio 2015\Projects\EDCFinal\bin\Owin.dll
+c:\users\nuno\documents\visual studio 2015\Projects\EDCFinal\bin\System.Web.Optimization.dll
+c:\users\nuno\documents\visual studio 2015\Projects\EDCFinal\bin\System.Web.Providers.dll
+c:\users\nuno\documents\visual studio 2015\Projects\EDCFinal\bin\WebGrease.dll
+c:\users\nuno\documents\visual studio 2015\Projects\EDCFinal\bin\Microsoft.AI.DependencyCollector.xml
+c:\users\nuno\documents\visual studio 2015\Projects\EDCFinal\bin\Microsoft.AI.ServerTelemetryChannel.xml
+c:\users\nuno\documents\visual studio 2015\Projects\EDCFinal\bin\Microsoft.AI.Web.xml
+c:\users\nuno\documents\visual studio 2015\Projects\EDCFinal\bin\Microsoft.AI.WindowsServer.xml
+c:\users\nuno\documents\visual studio 2015\Projects\EDCFinal\bin\Microsoft.ApplicationInsights.xml
+c:\users\nuno\documents\visual studio 2015\Projects\EDCFinal\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\nuno\documents\visual studio 2015\Projects\EDCFinal\bin\System.Web.Optimization.xml
+c:\users\nuno\documents\visual studio 2015\Projects\EDCFinal\bin\Antlr3.Runtime.pdb
+c:\users\nuno\documents\visual studio 2015\Projects\EDCFinal\bin\Newtonsoft.Json.xml
+c:\users\nuno\documents\visual studio 2015\Projects\EDCFinal\bin\Microsoft.AspNet.FriendlyUrls.xml
+c:\users\nuno\documents\visual studio 2015\Projects\EDCFinal\bin\EntityFramework.xml
+c:\users\nuno\documents\visual studio 2015\Projects\EDCFinal\bin\EntityFramework.SqlServer.xml
+c:\users\nuno\documents\visual studio 2015\Projects\EDCFinal\bin\Microsoft.AspNet.Identity.Core.xml
+c:\users\nuno\documents\visual studio 2015\Projects\EDCFinal\bin\Microsoft.AspNet.Identity.Owin.xml
+c:\users\nuno\documents\visual studio 2015\Projects\EDCFinal\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+c:\users\nuno\documents\visual studio 2015\Projects\EDCFinal\bin\System.Web.Providers.xml
+c:\users\nuno\documents\visual studio 2015\Projects\EDCFinal\bin\Microsoft.Owin.xml
+c:\users\nuno\documents\visual studio 2015\Projects\EDCFinal\bin\Microsoft.Owin.Host.SystemWeb.xml
+c:\users\nuno\documents\visual studio 2015\Projects\EDCFinal\bin\Microsoft.Owin.Security.xml
+c:\users\nuno\documents\visual studio 2015\Projects\EDCFinal\bin\Microsoft.Owin.Security.Facebook.xml
+c:\users\nuno\documents\visual studio 2015\Projects\EDCFinal\bin\Microsoft.Owin.Security.Cookies.xml
+c:\users\nuno\documents\visual studio 2015\Projects\EDCFinal\bin\Microsoft.Owin.Security.Google.xml
+c:\users\nuno\documents\visual studio 2015\Projects\EDCFinal\bin\Microsoft.Owin.Security.Twitter.xml
+c:\users\nuno\documents\visual studio 2015\Projects\EDCFinal\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+c:\users\nuno\documents\visual studio 2015\Projects\EDCFinal\bin\Microsoft.Owin.Security.OAuth.xml
+c:\users\nuno\documents\visual studio 2015\Projects\EDCFinal\obj\Debug\EDCFinal.csprojResolveAssemblyReference.cache
+c:\users\nuno\documents\visual studio 2015\Projects\EDCFinal\obj\Debug\EDCFinal.dll
+c:\users\nuno\documents\visual studio 2015\Projects\EDCFinal\obj\Debug\EDCFinal.pdb
+C:\Users\Nuno\documents\visual studio 2015\Projects\EDCFinal\bin\HtmlAgilityPack.dll
+C:\Users\Nuno\documents\visual studio 2015\Projects\EDCFinal\bin\HtmlAgilityPack.pdb
+C:\Users\Nuno\documents\visual studio 2015\Projects\EDCFinal\bin\HtmlAgilityPack.xml
+C:\Users\Nuno Humberto\Desktop\RECOVERED\EDC - Multi-console Online Retro Emulator Plaform\EDCFinal\bin\ApplicationInsights.config
+C:\Users\Nuno Humberto\Desktop\RECOVERED\EDC - Multi-console Online Retro Emulator Plaform\EDCFinal\bin\roslyn\csc.exe
+C:\Users\Nuno Humberto\Desktop\RECOVERED\EDC - Multi-console Online Retro Emulator Plaform\EDCFinal\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Nuno Humberto\Desktop\RECOVERED\EDC - Multi-console Online Retro Emulator Plaform\EDCFinal\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Nuno Humberto\Desktop\RECOVERED\EDC - Multi-console Online Retro Emulator Plaform\EDCFinal\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Nuno Humberto\Desktop\RECOVERED\EDC - Multi-console Online Retro Emulator Plaform\EDCFinal\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Nuno Humberto\Desktop\RECOVERED\EDC - Multi-console Online Retro Emulator Plaform\EDCFinal\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Nuno Humberto\Desktop\RECOVERED\EDC - Multi-console Online Retro Emulator Plaform\EDCFinal\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Nuno Humberto\Desktop\RECOVERED\EDC - Multi-console Online Retro Emulator Plaform\EDCFinal\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Nuno Humberto\Desktop\RECOVERED\EDC - Multi-console Online Retro Emulator Plaform\EDCFinal\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Nuno Humberto\Desktop\RECOVERED\EDC - Multi-console Online Retro Emulator Plaform\EDCFinal\bin\roslyn\vbc.exe
+C:\Users\Nuno Humberto\Desktop\RECOVERED\EDC - Multi-console Online Retro Emulator Plaform\EDCFinal\bin\roslyn\VBCSCompiler.exe
+C:\Users\Nuno Humberto\Desktop\RECOVERED\EDC - Multi-console Online Retro Emulator Plaform\EDCFinal\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Nuno Humberto\Desktop\RECOVERED\EDC - Multi-console Online Retro Emulator Plaform\EDCFinal\bin\EDCFinal.dll.config
+C:\Users\Nuno Humberto\Desktop\RECOVERED\EDC - Multi-console Online Retro Emulator Plaform\EDCFinal\bin\EDCFinal.dll
+C:\Users\Nuno Humberto\Desktop\RECOVERED\EDC - Multi-console Online Retro Emulator Plaform\EDCFinal\bin\EDCFinal.pdb
+C:\Users\Nuno Humberto\Desktop\RECOVERED\EDC - Multi-console Online Retro Emulator Plaform\EDCFinal\bin\Antlr3.Runtime.dll
+C:\Users\Nuno Humberto\Desktop\RECOVERED\EDC - Multi-console Online Retro Emulator Plaform\EDCFinal\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\Nuno Humberto\Desktop\RECOVERED\EDC - Multi-console Online Retro Emulator Plaform\EDCFinal\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\Nuno Humberto\Desktop\RECOVERED\EDC - Multi-console Online Retro Emulator Plaform\EDCFinal\bin\EntityFramework.dll
+C:\Users\Nuno Humberto\Desktop\RECOVERED\EDC - Multi-console Online Retro Emulator Plaform\EDCFinal\bin\EntityFramework.SqlServer.dll
+C:\Users\Nuno Humberto\Desktop\RECOVERED\EDC - Multi-console Online Retro Emulator Plaform\EDCFinal\bin\HtmlAgilityPack.dll
+C:\Users\Nuno Humberto\Desktop\RECOVERED\EDC - Multi-console Online Retro Emulator Plaform\EDCFinal\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Nuno Humberto\Desktop\RECOVERED\EDC - Multi-console Online Retro Emulator Plaform\EDCFinal\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Nuno Humberto\Desktop\RECOVERED\EDC - Multi-console Online Retro Emulator Plaform\EDCFinal\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Nuno Humberto\Desktop\RECOVERED\EDC - Multi-console Online Retro Emulator Plaform\EDCFinal\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Nuno Humberto\Desktop\RECOVERED\EDC - Multi-console Online Retro Emulator Plaform\EDCFinal\bin\Microsoft.AI.Web.dll
+C:\Users\Nuno Humberto\Desktop\RECOVERED\EDC - Multi-console Online Retro Emulator Plaform\EDCFinal\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Nuno Humberto\Desktop\RECOVERED\EDC - Multi-console Online Retro Emulator Plaform\EDCFinal\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Nuno Humberto\Desktop\RECOVERED\EDC - Multi-console Online Retro Emulator Plaform\EDCFinal\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\Nuno Humberto\Desktop\RECOVERED\EDC - Multi-console Online Retro Emulator Plaform\EDCFinal\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Nuno Humberto\Desktop\RECOVERED\EDC - Multi-console Online Retro Emulator Plaform\EDCFinal\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Nuno Humberto\Desktop\RECOVERED\EDC - Multi-console Online Retro Emulator Plaform\EDCFinal\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Nuno Humberto\Desktop\RECOVERED\EDC - Multi-console Online Retro Emulator Plaform\EDCFinal\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\Nuno Humberto\Desktop\RECOVERED\EDC - Multi-console Online Retro Emulator Plaform\EDCFinal\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Nuno Humberto\Desktop\RECOVERED\EDC - Multi-console Online Retro Emulator Plaform\EDCFinal\bin\Microsoft.Owin.dll
+C:\Users\Nuno Humberto\Desktop\RECOVERED\EDC - Multi-console Online Retro Emulator Plaform\EDCFinal\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Nuno Humberto\Desktop\RECOVERED\EDC - Multi-console Online Retro Emulator Plaform\EDCFinal\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Nuno Humberto\Desktop\RECOVERED\EDC - Multi-console Online Retro Emulator Plaform\EDCFinal\bin\Microsoft.Owin.Security.dll
+C:\Users\Nuno Humberto\Desktop\RECOVERED\EDC - Multi-console Online Retro Emulator Plaform\EDCFinal\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Nuno Humberto\Desktop\RECOVERED\EDC - Multi-console Online Retro Emulator Plaform\EDCFinal\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Nuno Humberto\Desktop\RECOVERED\EDC - Multi-console Online Retro Emulator Plaform\EDCFinal\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Nuno Humberto\Desktop\RECOVERED\EDC - Multi-console Online Retro Emulator Plaform\EDCFinal\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Nuno Humberto\Desktop\RECOVERED\EDC - Multi-console Online Retro Emulator Plaform\EDCFinal\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Nuno Humberto\Desktop\RECOVERED\EDC - Multi-console Online Retro Emulator Plaform\EDCFinal\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\Nuno Humberto\Desktop\RECOVERED\EDC - Multi-console Online Retro Emulator Plaform\EDCFinal\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\Nuno Humberto\Desktop\RECOVERED\EDC - Multi-console Online Retro Emulator Plaform\EDCFinal\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Nuno Humberto\Desktop\RECOVERED\EDC - Multi-console Online Retro Emulator Plaform\EDCFinal\bin\Newtonsoft.Json.dll
+C:\Users\Nuno Humberto\Desktop\RECOVERED\EDC - Multi-console Online Retro Emulator Plaform\EDCFinal\bin\Owin.dll
+C:\Users\Nuno Humberto\Desktop\RECOVERED\EDC - Multi-console Online Retro Emulator Plaform\EDCFinal\bin\System.Web.Optimization.dll
+C:\Users\Nuno Humberto\Desktop\RECOVERED\EDC - Multi-console Online Retro Emulator Plaform\EDCFinal\bin\System.Web.Providers.dll
+C:\Users\Nuno Humberto\Desktop\RECOVERED\EDC - Multi-console Online Retro Emulator Plaform\EDCFinal\bin\WebGrease.dll
+C:\Users\Nuno Humberto\Desktop\RECOVERED\EDC - Multi-console Online Retro Emulator Plaform\EDCFinal\bin\HtmlAgilityPack.pdb
+C:\Users\Nuno Humberto\Desktop\RECOVERED\EDC - Multi-console Online Retro Emulator Plaform\EDCFinal\bin\HtmlAgilityPack.xml
+C:\Users\Nuno Humberto\Desktop\RECOVERED\EDC - Multi-console Online Retro Emulator Plaform\EDCFinal\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Nuno Humberto\Desktop\RECOVERED\EDC - Multi-console Online Retro Emulator Plaform\EDCFinal\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Nuno Humberto\Desktop\RECOVERED\EDC - Multi-console Online Retro Emulator Plaform\EDCFinal\bin\Microsoft.AI.Web.xml
+C:\Users\Nuno Humberto\Desktop\RECOVERED\EDC - Multi-console Online Retro Emulator Plaform\EDCFinal\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Nuno Humberto\Desktop\RECOVERED\EDC - Multi-console Online Retro Emulator Plaform\EDCFinal\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Nuno Humberto\Desktop\RECOVERED\EDC - Multi-console Online Retro Emulator Plaform\EDCFinal\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Nuno Humberto\Desktop\RECOVERED\EDC - Multi-console Online Retro Emulator Plaform\EDCFinal\bin\System.Web.Optimization.xml
+C:\Users\Nuno Humberto\Desktop\RECOVERED\EDC - Multi-console Online Retro Emulator Plaform\EDCFinal\bin\Antlr3.Runtime.pdb
+C:\Users\Nuno Humberto\Desktop\RECOVERED\EDC - Multi-console Online Retro Emulator Plaform\EDCFinal\bin\Newtonsoft.Json.xml
+C:\Users\Nuno Humberto\Desktop\RECOVERED\EDC - Multi-console Online Retro Emulator Plaform\EDCFinal\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\Nuno Humberto\Desktop\RECOVERED\EDC - Multi-console Online Retro Emulator Plaform\EDCFinal\bin\EntityFramework.xml
+C:\Users\Nuno Humberto\Desktop\RECOVERED\EDC - Multi-console Online Retro Emulator Plaform\EDCFinal\bin\EntityFramework.SqlServer.xml
+C:\Users\Nuno Humberto\Desktop\RECOVERED\EDC - Multi-console Online Retro Emulator Plaform\EDCFinal\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Nuno Humberto\Desktop\RECOVERED\EDC - Multi-console Online Retro Emulator Plaform\EDCFinal\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Nuno Humberto\Desktop\RECOVERED\EDC - Multi-console Online Retro Emulator Plaform\EDCFinal\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Nuno Humberto\Desktop\RECOVERED\EDC - Multi-console Online Retro Emulator Plaform\EDCFinal\bin\System.Web.Providers.xml
+C:\Users\Nuno Humberto\Desktop\RECOVERED\EDC - Multi-console Online Retro Emulator Plaform\EDCFinal\bin\Microsoft.Owin.xml
+C:\Users\Nuno Humberto\Desktop\RECOVERED\EDC - Multi-console Online Retro Emulator Plaform\EDCFinal\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Nuno Humberto\Desktop\RECOVERED\EDC - Multi-console Online Retro Emulator Plaform\EDCFinal\bin\Microsoft.Owin.Security.xml
+C:\Users\Nuno Humberto\Desktop\RECOVERED\EDC - Multi-console Online Retro Emulator Plaform\EDCFinal\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Nuno Humberto\Desktop\RECOVERED\EDC - Multi-console Online Retro Emulator Plaform\EDCFinal\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Nuno Humberto\Desktop\RECOVERED\EDC - Multi-console Online Retro Emulator Plaform\EDCFinal\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Nuno Humberto\Desktop\RECOVERED\EDC - Multi-console Online Retro Emulator Plaform\EDCFinal\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Nuno Humberto\Desktop\RECOVERED\EDC - Multi-console Online Retro Emulator Plaform\EDCFinal\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Nuno Humberto\Desktop\RECOVERED\EDC - Multi-console Online Retro Emulator Plaform\EDCFinal\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Nuno Humberto\Desktop\RECOVERED\EDC - Multi-console Online Retro Emulator Plaform\EDCFinal\obj\Debug\EDCFinal.csprojResolveAssemblyReference.cache
+C:\Users\Nuno Humberto\Desktop\RECOVERED\EDC - Multi-console Online Retro Emulator Plaform\EDCFinal\obj\Debug\EDCFinal.dll
+C:\Users\Nuno Humberto\Desktop\RECOVERED\EDC - Multi-console Online Retro Emulator Plaform\EDCFinal\obj\Debug\EDCFinal.pdb
